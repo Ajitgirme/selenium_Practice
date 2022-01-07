@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-27T11:31:19 IST" name="Default suite" finished-at="2021-11-27T11:31:19 IST" duration-ms="82">
+    <groups>
+    </groups>
+    <test started-at="2021-11-27T11:31:19 IST" name="Default test" finished-at="2021-11-27T11:31:19 IST" duration-ms="82">
+      <class name="testNGFramework.DDTestInTesrNG">
+        <test-method signature="createtest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNGFramework.DDTestInTesrNG@1ffe63b9]" started-at="2021-11-27T11:31:19 IST" name="createtest" data-provider="preparetestdata" finished-at="2021-11-27T11:31:19 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ajit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mayur]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sachin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createtest -->
+        <test-method signature="createtest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNGFramework.DDTestInTesrNG@1ffe63b9]" started-at="2021-11-27T11:31:19 IST" name="createtest" data-provider="preparetestdata" finished-at="2021-11-27T11:31:19 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[avinash]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[santosh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Raju]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createtest -->
+        <test-method signature="getdata(java.lang.Object,java.lang.Object,java.lang.Object)[pri:0, instance:testNGFramework.DDTestInTesrNG@1ffe63b9]" started-at="2021-11-27T11:31:19 IST" name="getdata" data-provider="testdata" finished-at="2021-11-27T11:31:19 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ajit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[456.42f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdata -->
+        <test-method signature="getdata(java.lang.Object,java.lang.Object,java.lang.Object)[pri:0, instance:testNGFramework.DDTestInTesrNG@1ffe63b9]" started-at="2021-11-27T11:31:19 IST" name="getdata" data-provider="testdata" finished-at="2021-11-27T11:31:19 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vishal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[458]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[145.6f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdata -->
+      </class> <!-- testNGFramework.DDTestInTesrNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

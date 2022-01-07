@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="parameter">
+<test name= "parameter test">
+<parameter name="user" value="Ajit123@gmail.com"/>
+<parameter name="pwd" value="ajit@8907">
+
+</parameter>
+<classes>
+<class name="testNGFramework.ParameterTestInTestNG">
+
+</class>
+</classes>
+</test>
+</suite>
+
